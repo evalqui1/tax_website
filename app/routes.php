@@ -25,3 +25,13 @@ Route::get('/about', function()
 {
 	return View::make('about');
 });
+
+Route::get('/services', function()
+{
+	return View::make('services');
+});
+
+Route::get('/contact', function()
+{
+	return View::make('contact');
+});

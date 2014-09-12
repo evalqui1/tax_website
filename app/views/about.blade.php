@@ -1,9 +1,10 @@
 @extends('layout')
 
 @section('title')
-	Emilissa Tax Services - About
+	About
 @stop
 
 @section('content')
-	<h1>About Us</h1>
+	<h1>About Us:</h1>
+	<p>oadfoasjfiosjfodsjfioasjfioasjfioasjdf</p>
 @stop
